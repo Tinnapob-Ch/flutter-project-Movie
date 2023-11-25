@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361043910510",
+    "project_id": "myloginapp-94183",
+    "storage_bucket": "myloginapp-94183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361043910510:android:6b773fa09be231eb8fab7f",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJYUbrKH7Kv7e3GKdG4m0t78Bvvr43j8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
